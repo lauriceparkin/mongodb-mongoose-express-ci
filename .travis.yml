@@ -10,7 +10,7 @@ deploy:
   skip_cleanup: true
   provider: heroku
   api_key:
-    secure: BqZxR2wMJRX6FGmO/Wquc93e67xhRGG+Af6Cdy7iOES2eeZsIH+Zt1w4posvgnQUILmJVhMCx6mwWYzwCKU2OYulzJDbwFZKtjkh13DVGBzZN7WLFoa89ni2LFf2rTwp+MWr/jdn/lNqiyJAQEDdaEqCFhaE+SbmE3Jmw2oEGarlEMVoG/CcW0REnzicZbE64x2j1hrI3GY4yr61e/gQ73EB0s7nIR2nbLqsSNb6EqSwyBR3mJqcHBzf27ot3dIDX3IR2fu+qD9Dll5+2jAUtNMWbNHFJOgMb8diyCX6xNyoL/SoxgjSkVRlpyHIb0J+ej8UVgsHX9cw3HneCZUQRmy1b31Y2C61x1Orte9uC2jbobbT+mWiQ4C/MZz+F4mp7TukeZeyFrVBIcYSlp64hOQ3AEwpWF64yZ3l6ltTqGr2pPqUbfmizl1ugwgfX00TqQSx7CJCM2eydEJx1HsIsm+JHvynvbcReAv9lNLq7Oa0iihIyjeUmw1MEdcJ6qsJEvxosa2YAV6cx5vW9jQ9hDD7QMGokdUT2x+sTCR256BbSuW5LvAoMqhsJ/moC6XKyNwG8Pe82RcokS6OwiqnEPytqA/fdPNkOhylhz1ZP8CoYYxCHTFNi6qlc+m6QoAyHF3C24tjC08sMbsxkxCH4fm0hxlRNBKd756jNqDhziA=
+    secure: 0ce408b9-df45-410a-8514-80a2dfee1592
   app: ci-test-0001
   on:
     repo: lauriceparkin/mongodb-mongoose-express-ci
